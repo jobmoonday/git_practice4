@@ -6,6 +6,12 @@ public class TestCase001 {
         System.out.println("New function");
         // step 2 added
         int a=2;
+        if (a==2){
+            System.out.println("Hi");
+
+        }else {
+            System.out.println("Bye");
+        }
 
     }
 }
